@@ -1,7 +1,6 @@
 #selenium library for crawling and recieveing data also browser automation
 import time
 import logging #for committing logs
-import selenium.webdriver.support.ui
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
